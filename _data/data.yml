@@ -1,0 +1,128 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Anton Shabinskiy
+    tagline: Software engineer & teacher
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: a@{this website}
+    website: shbk.me #do not add http://
+    linkedin: shabinskiy
+    github: ironpercival
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    
+    interests:
+      - item: Swimming
+        link:
+
+      - item: Guitars & music
+        link:
+
+      - item: Psychology
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Long story short, my specialty is enterprise software development, building agile and lean teams, and teaching students both subjects. For development part I stick to C#/.NET and prefer to work with modern cloud approaches and architectures (Azure, going serverless, lightweight DDD etc). I take special care about rigorous domain analysis, solution architecture, and software design (OOAD). These are my strongest traits, while I am not an expert in advanced low-level implementation topics, .NET internals etc. Also, I am passionate about organizing teamwork in lean fashion and setting up development and delivery process. Finally, I share my knowledge and experience with students and give two courses at university. 
+
+education:
+    - degree: MSc in Information Technology
+      university: National University of Kyiv-Mohyla Academy
+      time: 2008 — 2010
+      details: |
+        Magna Cum Laude
+
+    - degree: BSc in Computer Science
+      university: National University of Kyiv-Mohyla Academy
+      time: 2004 — 2008
+      details: |
+        Magna Cum Laude
+
+experiences:
+    - role: Assistant Professor 
+      time: 2011 — now
+      company: National University of Kyiv-Mohyla Academy (Kyiv, UA)
+      details: |
+        Teaching OOAD and Agile
+
+    - role: Development lead, solution architect
+      time: 2016 — 2018
+      company: CloudRoute (Cleveland, US / Kyiv, UA) 
+      details: |
+          - Technical supervision and coordintation of development in the team of 15 people
+          - Requirements analysis and solution architecture
+          - Software design, backend & API development
+          - CI/CD and DevOps
+          - Assistance in product management & delivery
+          - Evolution of QA process
+          - Setup and maintenance of Agile/Lean process
+          - Mentoring and hiring
+
+    - role: Senior/Lead Software Engineer
+      time: 2012 — 2016
+      company: NewtonIdeas (Kyiv, UA)
+      details: |
+        Notable projects
+          -	[Competition Corner](https://competitioncorner.net/) – leading web solution for full-cycle management of crossfit events worldwide
+          - Web platform for [Kensington Publishing Corp.](http://www.kensingtonbooks.com) – one of the biggest US indie publishers
+        
+        Duties
+          - Leading web projects as a developer and coordinator
+          - Requirements analysis and solution architecture
+          - Software design, backend & API development
+          - ASP.NET UI development
+          - Mentoring & hiring
+
+    - role: Software engineer
+      time: 2011 — 2012
+      company: Asnova (Kyiv, UA)
+      details: |
+        Internal enterprise software development for company business automation (sales and distribution)
+          - Requirements analysis
+          - Software design, backend development
+
+    - role: Support engineer & consultant
+      time: 2008 — 2011
+      company: SAP Ukraine (Kyiv, UA)
+      details: |
+        Enterprise support of SAP Netweaver Java and SAP Manufacturing
+          - Investigating and troubleshooting critical production issues at customer side
+          - Providing consulting and advice on solution implementation
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: C#
+        level: 90%
+
+      - name: OOAD & DDD
+        level: 85%
+
+      - name: Visual Studio Team Services
+        level: 85%
+
+      - name: ASP.NET & ASP.NET Core
+        level: 80%
+
+      - name: EF & EF Core
+        level: 80%
+
+      - name: Azure
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
