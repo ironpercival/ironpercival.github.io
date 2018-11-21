@@ -18,15 +18,15 @@ sidebar:
     github: ironpercival
     gitlab:
     bitbucket:
-    twitter:
+    twitter: ironpercival
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     
     interests:
-      - item: Swimming
+      - item: Swimming (2017, 2018 Bosphorus races)
         link:
 
-      - item: Guitars & music
+      - item: Music, guitars
         link:
 
       - item: Psychology
@@ -35,7 +35,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Long story short, my specialty is enterprise software development, building agile and lean teams, and teaching students both subjects. For development part I stick to C#/.NET and prefer to work with modern cloud approaches and architectures (Azure, going serverless, lightweight DDD etc). I take special care about rigorous domain analysis, solution architecture, and software design (OOAD). These are my strongest traits, while I am not an expert in advanced low-level implementation topics, .NET internals etc. Also, I am passionate about organizing teamwork in lean fashion and setting up development and delivery process. Finally, I share my knowledge and experience with students and give two courses at university. 
+      "My specialties and interests are: enterprise software development, software architecture, software design, OOAD, cloud (Azure), domain analysis, serverless solutions, DDD, doing more with less, lean software (product) development, doing Agile properly, C#, F#, BDD, QA automation, continuous delivery, teaching and mentoring, improving teamwork, business automation, development automation, teaching automation, Toyota Production System and its application in software engineering, and more.
+
+      Not proficient/interested (at least now): algorithms, networking, distributed systems, GUI development, front-end, databases, parallel programming, multithreading, OS, Linux, Java, desktop applications etc."
+             
 
 education:
     - degree: MSc in Information Technology
@@ -55,7 +58,8 @@ experiences:
       time: 2011 — now
       company: National University of Kyiv-Mohyla Academy (Kyiv, UA)
       details: |
-        Teaching OOAD and Agile
+        - Courses in [OOAD](https://ood.tips/naukma/), Agile/Lean
+        - Working with students on course papers
 
     - role: Development lead, solution architect
       time: 2016 — 2018
@@ -64,11 +68,11 @@ experiences:
           - Technical supervision and coordintation of development in the team of 15 people
           - Requirements analysis and solution architecture
           - Software design, backend & API development
-          - CI/CD and DevOps
+          - CI/CD, DevOps
           - Assistance in product management & delivery
           - Evolution of QA process
           - Setup and maintenance of Agile/Lean process
-          - Mentoring and hiring
+          - Mentoring, hiring
 
     - role: Senior/Lead Software Engineer
       time: 2012 — 2016
@@ -101,28 +105,40 @@ experiences:
           - Investigating and troubleshooting critical production issues at customer side
           - Providing consulting and advice on solution implementation
 
+projects:
+    title: Projects
+    assignments:
+      - title: ood.tips
+        link: "https://ood.tips"
+        tagline: "OOAD knowledge sharing website"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: C#
-        level: 90%
+        level: 70%
+
+      - name: F#
+        level: 30%
+
+      - name: React & JavaScript
+        level: 30%
 
       - name: OOAD & DDD
-        level: 85%
+        level: 80%
 
-      - name: Visual Studio Team Services
-        level: 85%
+      - name: Azure DevOps (Visual Studio Team Services)
+        level: 90%
 
       - name: ASP.NET & ASP.NET Core
-        level: 80%
+        level: 60%
 
       - name: EF & EF Core
-        level: 80%
+        level: 70%
 
       - name: Azure
-        level: 60%
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
