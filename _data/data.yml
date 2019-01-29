@@ -69,25 +69,21 @@ experiences:
           - Requirements analysis and solution architecture
           - Software design, backend & API development
           - CI/CD, DevOps
-          - Assistance in product management & delivery
-          - Evolution of QA process
-          - Setup and maintenance of Agile/Lean process
-          - Mentoring, hiring
+          - Support of product management & delivery
+          - Improving QA process
+          - Setup and maintenance of Lean development process
+          - Hiring and mentoring
 
     - role: Software engineer, project lead
       time: 2012 — 2016
       company: NewtonIdeas (Kyiv, UA)
       details: |
-        Notable projects
-          -	[Competition Corner](https://competitioncorner.net/) – leading web solution for full-cycle management of crossfit events worldwide
-          - Web platform for [Kensington Publishing Corp.](http://www.kensingtonbooks.com) – one of the biggest US indie publishers
-        
-        Duties
           - Leading web projects as a developer and coordinator
           - Requirements analysis and solution architecture
           - Software design, backend & API development
-          - ASP.NET UI development
           - Mentoring & hiring
+        
+          Built [Competition Corner](https://competitioncorner.net/) and [Kensington Publishing Corp.](http://www.kensingtonbooks.com)
 
     - role: Software engineer
       time: 2011 — 2012
@@ -112,33 +108,6 @@ projects:
         link: "https://ood.tips"
         tagline: "OOAD knowledge sharing website"
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: C#
-        level: 70%
-
-      - name: F#
-        level: 30%
-
-      - name: React & JavaScript
-        level: 30%
-
-      - name: OOAD & DDD
-        level: 80%
-
-      - name: Azure DevOps (Visual Studio Team Services)
-        level: 90%
-
-      - name: ASP.NET & ASP.NET Core
-        level: 60%
-
-      - name: EF & EF Core
-        level: 70%
-
-      - name: Azure
-        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
