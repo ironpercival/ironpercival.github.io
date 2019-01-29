@@ -35,30 +35,30 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      "My specialties and interests are: enterprise software development, software architecture, software design, OOAD, cloud (Azure), domain analysis, serverless solutions, DDD, doing more with less, lean software (product) development, doing Agile properly, C#, F#, BDD, QA automation, continuous delivery, teaching and mentoring, improving teamwork, business automation, development automation, teaching automation, Toyota Production System and its application in software engineering, and more.
+      "Experienced/knowledgeable/interested: enterprise software development, software architecture, software design, OOAD, cloud (Azure), domain analysis, serverless solutions, DDD, doing more with less, MVP development, lean software (product) development, doing Agile properly, C#, F#, BDD, QA automation, continuous delivery, teaching, mentoring, improving teamwork, business automation, development automation, teaching automation, Toyota Production System and its application in software engineering, leading teams, (computational) linguistics [ ... to be expanded].
 
-      Not proficient/interested (at least now): algorithms, networking, distributed systems, GUI development, front-end, databases, parallel programming, multithreading, OS, Linux, Java, desktop applications etc."
+      NOT experienced/knowledgeable/interested: any type of GUI development, front-end development, low-level development, desktop apps development, mobile apps development, database-level development, Python, PHP, JavaScript, Java."
              
 
 education:
-    - degree: MSc in Information Technology
+    - degree: MSc in information technology
       university: National University of Kyiv-Mohyla Academy
       time: 2008 — 2010
       details: |
         Magna Cum Laude
 
-    - degree: BSc in Computer Science
+    - degree: BSc in computer science
       university: National University of Kyiv-Mohyla Academy
       time: 2004 — 2008
       details: |
         Magna Cum Laude
 
 experiences:
-    - role: Assistant Professor 
+    - role: Assistant professor 
       time: 2011 — now
       company: National University of Kyiv-Mohyla Academy (Kyiv, UA)
       details: |
-        - Courses in [OOAD](https://ood.tips/naukma/), Agile/Lean
+        - Teching courses in [OOAD](https://ood.tips/naukma/) and Lean & Agile Software Development
         - Working with students on course papers
 
     - role: Development lead, solution architect
@@ -74,7 +74,7 @@ experiences:
           - Setup and maintenance of Agile/Lean process
           - Mentoring, hiring
 
-    - role: Senior/Lead Software Engineer
+    - role: Software engineer, project lead
       time: 2012 — 2016
       company: NewtonIdeas (Kyiv, UA)
       details: |
@@ -97,7 +97,7 @@ experiences:
           - Requirements analysis
           - Software design, backend development
 
-    - role: Support engineer & consultant
+    - role: Support engineer, consultant
       time: 2008 — 2011
       company: SAP Ukraine (Kyiv, UA)
       details: |
